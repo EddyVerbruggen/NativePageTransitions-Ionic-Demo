@@ -1,0 +1,37 @@
+{
+  "ProjectName": "NativeTransitionsIonic",
+  "ProjectGuid": "e9d04cc6-7413-4eb0-8ee8-b4e38df4c0ff",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NativeTransitionsIonic",
+  "DisplayName": "NativeTransitionsIonic",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a5d3e56e-b19d-47a3-b8e0-6b15f053ce2e}",
+  "WP8ProductID": "{47a44181-19d6-4977-8365-de35999d6d02}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
