@@ -2,10 +2,10 @@
   "ProjectName": "NativeTransitionsIonic",
   "ProjectGuid": "e9d04cc6-7413-4eb0-8ee8-b4e38df4c0ff",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.NativeTransitionsIonic",
+  "AppIdentifier": "com.telerik.plugindemo.nativepagetransitions.ionic",
   "DisplayName": "NativeTransitionsIonic",
-  "Author": "",
-  "Description": "",
+  "Author": "Telerik",
+  "Description": "NativeTransitionsIonic",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -33,5 +33,11 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "com.ionic.keyboard@1.0.3",
+    "com.telerik.plugins.nativepagetransitions@0.2.12",
+    "org.apache.cordova.console",
+    "org.apache.cordova.device"
   ]
 }
